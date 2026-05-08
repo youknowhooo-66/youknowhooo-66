@@ -3,7 +3,17 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=youknowhooo-66&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-```
+
+<h3 align="center">
+💻 Debugging reality with 
+<span style="background: linear-gradient(90deg,#ff4ecd,#7b61ff,#00f5d4,#ff4ecd);
+-webkit-background-clip:text;
+-webkit-text-fill-color:transparent;
+font-weight:bold;">
+Pink Floyd on the left ear and Tame Impala on the right
+</span>
+🚀
+</h3>
 
 <h3 align="center">
 Full Stack Developer passionate about building modern web applications and scalable backend systems

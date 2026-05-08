@@ -1,18 +1,100 @@
 <h1 align="center">Hi 👋, I'm Maycon Gibson</h1>
-<h3 align="center">A passionate frontend/backend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youknowhooo-66&label=Profile%20views&color=0e75b6&style=flat" alt="youknowhooo-66" /> </p>
+<h3 align="center">
+Full Stack Developer focused on modern web applications with React, Node.js and TypeScript
+</h3>
 
-- 📫 How to reach me **youknowhooo@icloud.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/maycon-gibson-neves-dos-santos-a926182bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maycon-gibson-neves-dos-santos-a926182bb" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/youknowhooo-66">
+    <img src="https://komarev.com/ghpvc/?username=youknowhooo-66&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youknowhooo-66&show_icons=true&locale=en&layout=compact" alt="youknowhooo-66" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youknowhooo-66&show_icons=true&locale=en" alt="youknowhooo-66" /></p>
+💻 Full Stack Developer from Brazil  
+🎯 Focused on scalable web applications and clean architecture  
+📚 Currently improving my skills in backend engineering, APIs and DevOps  
+⚡ Passionate about technology, automation and problem solving  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,figma,vite" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,arduino" />
+</p>
+
+---
+
+## 📌 Current Goals
+
+- Build complete full stack applications
+- Improve software architecture knowledge
+- Learn CI/CD and cloud deployment
+- Contribute to open source projects
+
+---
+
+## 🌎 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/maycon-gibson-neves-dos-santos-a926182bb" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:youknowhooo@icloud.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+📫 Email: **youknowhooo@icloud.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youknowhooo-66&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowhooo-66&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=youknowhooo-66&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Featured Skills
+
+```ts
+const maycon = {
+  code: ["JavaScript", "TypeScript"],
+  frontend: ["React", "React Native"],
+  backend: ["Node.js", "Express"],
+  database: ["PostgreSQL", "MySQL"],
+  tools: ["Git", "Postman", "Figma"],
+  currentlyLearning: ["Prisma", "Docker", "CI/CD"]
+}
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youknowhooo-66&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+```

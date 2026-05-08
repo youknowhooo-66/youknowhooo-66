@@ -1,60 +1,128 @@
 <h1 align="center">Hi 👋, I'm Maycon Gibson</h1>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youknowhooo-66&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+```
+
 <h3 align="center">
-Full Stack Developer focused on modern web applications with React, Node.js and TypeScript
+Full Stack Developer passionate about building modern web applications and scalable backend systems
 </h3>
 
 <p align="center">
-  <a href="https://github.com/youknowhooo-66">
-    <img src="https://komarev.com/ghpvc/?username=youknowhooo-66&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=youknowhooo-66&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-💻 Full Stack Developer from Brazil  
-🎯 Focused on scalable web applications and clean architecture  
-📚 Currently improving my skills in backend engineering, APIs and DevOps  
-⚡ Passionate about technology, automation and problem solving  
+💻 Full Stack Developer from Brazil 🇧🇷  
+🚗 Also working with mobility apps while studying software development  
+📚 Currently studying Systems Development at SENAI  
+⚡ Focused on backend development, APIs, databases and scalable systems  
+🧠 Always learning new technologies and improving architecture skills  
+
+I enjoy building complete applications, from database modeling to frontend interfaces.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Technologies I Use
 
-### Frontend
+## 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,figma,vite" />
+  <img src="https://skillicons.dev/icons?i=react,vite,typescript,javascript,html,css" />
 </p>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,arduino" />
-</p>
+- React
+- Vite
+- Axios
+- React Router DOM
+- Context API
 
 ---
 
-## 📌 Current Goals
+## ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript" />
+</p>
 
-- Build complete full stack applications
-- Improve software architecture knowledge
-- Learn CI/CD and cloud deployment
-- Contribute to open source projects
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- MVC Architecture
+- Middleware
+- File Uploads with Multer
+- Data Validation with Zod
+- Password Hashing with BcryptJS
+- Logging with Morgan
+- Security with Helmet
+- Environment Variables with Dotenv
 
 ---
 
-## 🌎 Connect With Me
+## 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
+</p>
+
+- PostgreSQL
+- MySQL
+- Prisma ORM
+- Sequelize ORM
+- PG Driver & Pool
+- Database Modeling
+- Relationships & Constraints
+
+---
+
+## 🧪 Testing & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
+
+- Git & GitHub
+- Postman
+- Jest
+- Nodemon
+- VSCode
+- Figma
+
+---
+
+## 📚 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux" />
+</p>
+
+- Docker
+- CI/CD
+- Software Architecture
+- Clean Code
+- Linux
+- Deployment & Cloud concepts
+
+---
+
+# 📌 Featured Projects
+
+🚘 Management Systems  
+🏨 Hotel/Cleaning Scheduling Systems  
+🔧 Auto Parts & Workshop Management Systems  
+📦 CRUD APIs with Authentication  
+📊 Dashboard Interfaces with React  
+
+---
+
+# 🌎 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/maycon-gibson-neves-dos-santos-a926182bb" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 <a href="mailto:youknowhooo@icloud.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
@@ -64,17 +132,17 @@ Full Stack Developer focused on modern web applications with React, Node.js and 
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youknowhooo-66&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowhooo-66&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=youknowhooo-66&theme=tokyonight&hide_border=true"/>
@@ -82,19 +150,40 @@ Full Stack Developer focused on modern web applications with React, Node.js and 
 
 ---
 
-## 🧠 Featured Skills
+# 🧠 Developer Mindset
 
 ```ts
 const maycon = {
-  code: ["JavaScript", "TypeScript"],
-  frontend: ["React", "React Native"],
-  backend: ["Node.js", "Express"],
-  database: ["PostgreSQL", "MySQL"],
-  tools: ["Git", "Postman", "Figma"],
-  currentlyLearning: ["Prisma", "Docker", "CI/CD"]
-}
+  focus: "Full Stack Development",
+  
+  frontend: [
+    "React",
+    "TypeScript",
+    "Vite"
+  ],
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youknowhooo-66&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-```
+  backend: [
+    "Node.js",
+    "Express",
+    "REST APIs",
+    "JWT"
+  ],
+
+  database: [
+    "PostgreSQL",
+    "Prisma",
+    "Sequelize"
+  ],
+
+  currentlyLearning: [
+    "Docker",
+    "CI/CD",
+    "Software Architecture"
+  ],
+
+  mindset: [
+    "Clean Code",
+    "Problem Solving",
+    "Continuous Learning"
+  ]
+}
